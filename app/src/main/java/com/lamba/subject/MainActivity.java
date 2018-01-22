@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         textView.setText("green");
+
+
+        textView.setText("ddddd");
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
